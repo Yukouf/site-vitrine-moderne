@@ -82,9 +82,8 @@ Ce template est optimisé pour générer des conversions :
 
 Besoin d'aide pour personnaliser ce template ?
 
-- 📧 **Email** : votre.email@example.com
-- 💬 **LinkedIn** : [Votre Profil](https://linkedin.com/in/votre-profil)
-- 🌐 **Site Web** : [votre-site.com](https://votre-site.com)
+- 📧 **Email** : youssef.guerniou@outlook.com
+- 💬 **LinkedIn** : www.linkedin.com/in/youssefguerniou
 
 ## 📄 Licence
 
