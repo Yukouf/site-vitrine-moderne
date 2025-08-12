@@ -2,12 +2,6 @@
 
 Un template de site vitrine professionnel avec des animations 3D, des effets visuels modernes et une interface responsive optimisée pour convertir vos visiteurs en clients.
 
-## ✨ Démonstration Live
-
-🔗 **[Voir la démo en ligne](https://yourusername.github.io/Website_1)**
-
-![Preview du site](https://via.placeholder.com/800x400/667eea/ffffff?text=Site+Vitrine+Moderne)
-
 ## 🎯 Fonctionnalités
 
 ### 🎨 Design & UX
@@ -47,21 +41,6 @@ Le site s'adapte parfaitement à tous les appareils :
 - 💻 **Laptop** (992px - 1199px)
 - 📱 **Tablet** (768px - 991px)
 - 📱 **Mobile** (320px - 767px)
-
-## 🚀 Installation & Utilisation
-
-### Installation Rapide
-
-```bash
-# Cloner le repository
-git clone https://github.com/yourusername/Website_1.git
-
-# Naviguer dans le dossier
-cd Website_1
-
-# Ouvrir dans votre navigateur
-open index.html
-```
 
 ### Personnalisation
 
@@ -111,19 +90,9 @@ Besoin d'aide pour personnaliser ce template ?
 
 Ce projet est sous licence MIT. Vous êtes libre de l'utiliser pour vos projets personnels et commerciaux.
 
-## 🌟 Contribuer
-
-Les contributions sont les bienvenues ! N'hésitez pas à :
-
-1. Fork le projet
-2. Créer une branche (`git checkout -b feature/nouvelle-fonctionnalite`)
-3. Commit vos changements (`git commit -m 'Ajout nouvelle fonctionnalité'`)
-4. Push vers la branche (`git push origin feature/nouvelle-fonctionnalite`)
-5. Ouvrir une Pull Request
-
 ## 🏆 Crédits
 
-Développé avec ❤️ par [Votre Nom]
+Développé avec ❤️ par Yukouf !
 
 ---
 
